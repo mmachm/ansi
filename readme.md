@@ -5,7 +5,7 @@
 - [Features](#features)
 
 
-![Logo](./acid_production.png)
+![Logo](./sense.png)
 ## Idea
 
 I love the edgy ansi art style from the 90s. 
